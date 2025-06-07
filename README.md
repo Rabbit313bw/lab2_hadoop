@@ -1,7 +1,7 @@
 # lab2_hadoop
 
 ```bash
-bash run_experiments.sh
+bash run_experiment.sh
 ```
 # Результаты (в сек)
 {'datanode_1': 20.4423770904541,
